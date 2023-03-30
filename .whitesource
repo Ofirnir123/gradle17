@@ -3,8 +3,6 @@
     "configMode": "AUTO", 
     "configExternalURL": "",  
     "projectToken": "", 
-    "javaVersion": "17",  
-    "javaVersion": "17",   
     "baseBranches": []  
   },
   "checkRunSettings": {
